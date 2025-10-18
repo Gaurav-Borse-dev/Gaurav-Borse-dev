@@ -2,7 +2,8 @@
 <h3 align="center">AI & ML Engineer | Cloud Enthusiast | Problem Solver | Future Innovator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-borse-dev&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-borse-dev" /> </p>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/df249449-bb0d-4351-9e3a-4db753c5ea37" />
+">
 
 <p align="left"> <a href="https://twitter.com/gauravb" target="blank"><img src="https://img.shields.io/twitter/follow/gauravb?logo=twitter&style=for-the-badge" alt="gauravb" /></a> </p>
 

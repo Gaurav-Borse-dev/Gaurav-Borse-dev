@@ -1,9 +1,21 @@
-<h1 align="center">Hi 👋, I'm Gaurav Borse</h1>
-<h3 align="center">AI & ML Engineer | Cloud Enthusiast | Problem Solver | Future Innovator</h3>
+<h1 align="center">Hi 👋, I'm </h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=GAURAV&height=100&section=header"/>
+</p>
+<h3 align="center">AI & ML Engineer | Cloud Enthusiast | Problem Solver | Debugger</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-borse-dev&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-borse-dev" /> </p>
-<img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/df249449-bb0d-4351-9e3a-4db753c5ea37" />
-">
+
+</p>
+
+<div align="center">
+<img src="https://images.squarespace-cdn.com/content/v1/5c702bc465019f9573ec4c2b/1656951595325-CGD8JSSY9L2RRUANH2R9/1.gif" width="85%"></h1>
+ 
+ 
+</div>
+
 
 <p align="left"> <a href="https://twitter.com/gauravb" target="blank"><img src="https://img.shields.io/twitter/follow/gauravb?logo=twitter&style=for-the-badge" alt="gauravb" /></a> </p>
 
@@ -46,6 +58,12 @@ hb
 ---
 [![](https://visitcount.itsvg.in/api?id=gaurav-borse-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<div align="center">
+<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="75%"></h1>
+ 
+ 
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <h3 align="left">Connect with me:</h3>
@@ -55,4 +73,23 @@ hb
 <a href="https://kaggle.com/https://www.kaggle.com/borsegb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/borsegb" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/gb_18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/gb_18" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/gb_forever/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/gb_forever/" height="30" width="40" /></a>
+</p>
+
+ <!-- Colonna 1: Gitanimals Line Mode -->
+<table align="center">
+    <!-- Riga 2: Gitanimals Farm Mode su tutta la larghezza -->
+    <td colspan="2" align="center">
+      <a href="https://github.com/git-goods/gitanimals">
+        <img src="https://render.gitanimals.org/farms/GAURAV"
+             width="80%" alt="Gitanimals Farm Mode" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+    
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=THΛNK_YoU!&height=100&section=footer"/>
 </p>

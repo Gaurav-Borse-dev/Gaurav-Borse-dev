@@ -75,13 +75,12 @@ hb
 <a href="https://www.leetcode.com/https://leetcode.com/u/gb_forever/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/gb_forever/" height="30" width="40" /></a>
 </p>
 
- <!-- Colonna 1: Gitanimals Line Mode -->
 <table align="center">
     <!-- Riga 2: Gitanimals Farm Mode su tutta la larghezza -->
     <td colspan="2" align="center">
       <a href="https://github.com/git-goods/gitanimals">
-        <img src="https://render.gitanimals.org/farms/GAURAV"
-             width="80%" alt="Gitanimals Farm Mode" />
+        <img src="https://i.pinimg.com/originals/c3/16/fb/c316fb113192ff4854db1c528e142203.gif"
+             width="50%" alt="Gitanimals Farm Mode" />
       </a>
     </td>
   </tr>
